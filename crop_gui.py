@@ -13,7 +13,7 @@ def on_button_click():
 window = tk.Tk()
 window.title("이미지 처리 프로그램")
 
-window.geometry("530x200")
+window.geometry("530x180")
 
 class_name_label = tk.Label(window, text="클래스 이름 입력:")
 class_name_label.grid(row=0, column=0, padx=10, pady=10) 
