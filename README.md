@@ -1,6 +1,6 @@
 클래스 이름을 입력하여 클래스 이름의 바운딩박스의 좌표를 중심으로 yolov11의 입력 포멧인 640x640으로 크롭
 
-darknet format만 사용 가능, 입력 이미지의 크기가 640x640보다 커야함
+입력 이미지의 크기가 640x640보다 커야함
 
 ![image](https://github.com/user-attachments/assets/07d1893b-5d0b-4640-871d-0515246cf97c)
 
